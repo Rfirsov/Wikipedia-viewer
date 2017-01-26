@@ -1,0 +1,10 @@
+body{
+  font-family: "Lobster", Times New Roman;
+  background-image: url("http://www.technokick.com/wp-content/uploads/2014/08/wikipedia-logo.jpg");
+  background-repeat: no-repeat;
+  
+}
+
+button{
+  margin: 1em;
+}
